@@ -1,0 +1,26 @@
+[
+  {
+    "name": "hospital_booking",
+    "description": "Handles hospital appointment bookings"
+  },
+  {
+    "name": "email_handling",
+    "description": "Handles email sending  and reading to users"
+  },
+  {
+    "name": "simple_llm",
+    "description": "General-purpose LLM that answers user questions directly"
+  },
+    {
+    "name": "doc_extractor",
+    "description": "extract text content from any type of doc type "
+  },
+   {
+    "name": "coder",
+    "description": "write code based on user prompt in any language"
+  }
+  
+  
+  
+
+]
