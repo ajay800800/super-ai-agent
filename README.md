@@ -5,7 +5,7 @@
 An intelligent multi-tool AI routing server that processes natural language prompts and dynamically routes them to the most appropriate AI agent or tool (e.g., email, hospital booking, document extraction, code generation) using a smart planner powered by a local LLM (e.g., Mistral via Ollama).
 
 ---
-![Architecture Diagram](assets/file1.png)
+
 
 ## 🛠️ Features
 
@@ -19,7 +19,7 @@ An intelligent multi-tool AI routing server that processes natural language prom
 - 💻 **AutoCoder Agent**: Generates and executes Python code (integrates with `autocoder` project).
 - 🤖 **LLM Fallback**: Provides direct reon`, and forwards the request via `handlers.js`. Responses are summarized and returned to the user.
 
-![Super AI Agent Flow](assets/file1.png) from `tools.json`, and forwards the request via `handlers.js`. Responses are summarized and returned to the user.
+ from `tools.json`, and forwards the request via `handlers.js`. Responses are summarized and returned to the user.
 
 ![Super AI Agent Flow](assets/file2.png)
 
