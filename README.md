@@ -43,7 +43,15 @@ super-ai-router/
 └── README.md
 ```
 
+
 ---
+## run all other ai agents server first by vising readme from this repo:
+
+1.https://github.com/ajay800800/lang_translator
+2.https://github.com/ajay800800/codin_agent
+3.https://github.com/ajay800800/EMAIL_AGENT
+4.https://github.com/ajay800800/docor_appointment_agent
+5.https://github.com/ajay800800/text_extracting_AIAGENT
 
 ## 🚀 Run Locally
 
