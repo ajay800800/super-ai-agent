@@ -174,9 +174,7 @@ npm start
 
 ---
 
-## 📄 License
 
-MIT License © 2025 Your Name
 
 ```<xaiArtifact artifact_id="a48dee07-36a4-40a1-8d82-3e3963f0f24b" artifact_version_id="4786a3a6-6282-4614-870c-4840d60fb98f" title="README.md" contentType="text/markdown">
 
@@ -352,9 +350,7 @@ npm start
 
 ---
 
-## 📄 License
 
-MIT License © 2025 Your Name
 
 </xaiArtifact>
 
@@ -530,7 +526,5 @@ npm start
 
 ---
 
-## 📄 License
 
-MIT License © 2025 Your Name
 
