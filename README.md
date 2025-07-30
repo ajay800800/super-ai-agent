@@ -11,7 +11,7 @@ An intelligent multi-tool AI routing server that processes natural language prom
 
 - 🔁 **Dynamic Tool Selection**: Routes pron`, and forwards the request via `handlers.js`. Responses are summarized and returned to the user.
 
-![Super AI Agent Flow](assets/file1.png)ompts to the best-suited agent using a local LLM.
+prompts to the best-suited agent using a local LLM.
 - 🧠 **Context-Aware Routing**: Maintains short-term memory for conversational context.
 - 📨 **Email Agent**: Sends emails based on user prompts.
 - 🏥 **Hospital Booking Agent**: Manages hospital appointment bookings.
